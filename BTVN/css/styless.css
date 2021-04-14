@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #3c4258;
+    
+    
+    
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.Tittle{
+    background-color: #1c1f30;
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 30px auto 20px;
+    width: 100px;
+}
+
+.nd{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.nd1{
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    font-style: oblique;
+}
+
+.img{
+    margin: 10px;
+    text-align: center;
+}
