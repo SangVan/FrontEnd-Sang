@@ -1,0 +1,47 @@
+.header-banner{
+    position: absolute;
+}
+
+.header-banner-1{
+    width: 26%;
+    top: 64%;
+    left: 2%;
+}
+
+.header-banner-2{
+    width: 14%;
+    top: 43%;
+    left: 1.5%;
+}
+
+.header-banner-3{
+    width: 20%;
+    top: 33%;
+    left: 12%;
+}
+
+.header-banner-4{
+    width: 20%;
+    top: 33%;
+    left: 12%;
+}
+
+.header-banner-5{
+    top: 43%;
+    width: 18%;
+    right: 15%;
+    z-index: 1;
+}
+
+.header-banner-6{
+    top: 33%;
+    right: 0;
+    width: 21%;
+}
+
+.header-banner-7{
+    top: 59%;
+    right: -3%;
+    width: 11%;
+}
+
